@@ -315,14 +315,7 @@
         "startType": "automatic",
         "startType": "stopped"
       },
-      {
-        "type": "service",
-        "name": "dot3svc",
-        "displayName": "Wired AutoConfig",
-        "imagePath": "C:\\Windows\\system32\\svchost.exe -k LocalSystemNetworkRestricted",
-        "startType": "manual",
-        "startType": "stopped"
-      },
+
       {
         "type": "service",
         "name": "DPS",
