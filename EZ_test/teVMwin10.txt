@@ -493,14 +493,6 @@
       },
       {
         "type": "service",
-        "name": "iphlpsvc",
-        "displayName": "IP Helper",
-        "imagePath": "C:\\Windows\\System32\\svchost.exe -k NetSvcs",
-        "startType": "automatic",
-        "startType": "running"
-      },
-      {
-        "type": "service",
         "name": "KeyIso",
         "displayName": "CNG Key Isolation",
         "imagePath": "C:\\Windows\\system32\\lsass.exe",
