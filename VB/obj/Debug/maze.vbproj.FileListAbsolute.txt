@@ -1,0 +1,11 @@
+C:\Users\JET\Desktop\maze\maze\bin\Debug\maze.exe.config
+C:\Users\JET\Desktop\maze\maze\bin\Debug\maze.exe
+C:\Users\JET\Desktop\maze\maze\bin\Debug\maze.pdb
+C:\Users\JET\Desktop\maze\maze\bin\Debug\maze.xml
+C:\Users\JET\Desktop\maze\maze\obj\Debug\maze.vbprojResolveAssemblyReference.cache
+C:\Users\JET\Desktop\maze\maze\obj\Debug\crossword.Form1.resources
+C:\Users\JET\Desktop\maze\maze\obj\Debug\crossword.Resources.resources
+C:\Users\JET\Desktop\maze\maze\obj\Debug\maze.vbproj.GenerateResource.Cache
+C:\Users\JET\Desktop\maze\maze\obj\Debug\maze.exe
+C:\Users\JET\Desktop\maze\maze\obj\Debug\maze.xml
+C:\Users\JET\Desktop\maze\maze\obj\Debug\maze.pdb
